@@ -223,3 +223,10 @@ body {
 .box .details:nth-child(2) .details {
     background:#607d8b;
 }
+
+.progress1 {
+  height: 7px;
+  border-radius: 0;
+  background: #DDD;
+  margin-bottom: 20px;
+}
